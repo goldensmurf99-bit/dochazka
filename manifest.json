@@ -1,8 +1,9 @@
-{
+
   "name": "Dochádzka",
   "short_name": "Dochádzka",
   "description": "Súkromná evidencia pracovného času",
-  "start_url": "/",
+  "start_url": "/dochazka/",
+  "scope": "/dochazka/",
   "display": "standalone",
   "background_color": "#F2F2F7",
   "theme_color": "#007AFF",
